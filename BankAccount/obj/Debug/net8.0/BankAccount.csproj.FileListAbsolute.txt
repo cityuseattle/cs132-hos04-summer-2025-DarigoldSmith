@@ -1,0 +1,15 @@
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/bin/Debug/net8.0/BankAccount
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/bin/Debug/net8.0/BankAccount.deps.json
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/bin/Debug/net8.0/BankAccount.runtimeconfig.json
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/bin/Debug/net8.0/BankAccount.dll
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/bin/Debug/net8.0/BankAccount.pdb
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfoInputs.cache
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfo.cs
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CoreCompileInputs.cache
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.sourcelink.json
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.dll
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/refint/BankAccount.dll
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.pdb
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/BankAccount.genruntimeconfig.cache
+/workspaces/cs132-hos04-summer-2025-DarigoldSmith/BankAccount/obj/Debug/net8.0/ref/BankAccount.dll
